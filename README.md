@@ -1,4 +1,4 @@
-![upschool](https://github.com/ecembostancioglu/guess_number/assets/72046458/06d480a3-bd3c-48c7-8bbc-bfaeb03a5060)
+![upschool](https://github.com/ecembostancioglu/guess_number/assets/72046458/919c7f74-5b85-485c-accf-0442ddd3a206)
 
 # About This Project
 
@@ -8,6 +8,7 @@ This project was made within the scope of UpSchool Android Bootcamp.
 
 Welcome to the GuessNumber game! Let's guess a number...
 
-![output](https://github.com/ecembostancioglu/guess_number/assets/72046458/e1333f50-d8c0-4018-9610-071987f1e890)
+![output](https://github.com/ecembostancioglu/guess_number/assets/72046458/2666df93-5a96-40a8-a1bf-d54693039a1d)
+
 
 
